@@ -1,0 +1,4 @@
+CRITICAL - 2022-05-18 02:39:27 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\bappeda2\vendor\codeigniter4\framework\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\bappeda2\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
